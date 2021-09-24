@@ -2,7 +2,7 @@
 #include <stdlib.h>
     int main( int b,
      char**i){int p=0
-      ;for(int z=1; z<
+      ;for(int z=1;z<=
        atoi(i[1]);z++){
       p=0;for(int j=2;
      j<z;j++){if(z %j
