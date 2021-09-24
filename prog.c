@@ -9,4 +9,4 @@
     ==0){p=1;}}if( p
    == 0 ) { printf(
    "%d\n",z ) ; } }
-     return  0  ;   }
+    return  0  ;   }
